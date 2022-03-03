@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{E847F830-0DE5-417A-BD4B-C632986B7574}|Default">
+﻿<Properties StartupConfiguration="{123B7A04-643B-421C-8EB7-EB408FE988AA}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="GitCloneTest/Program.cs">
     <Files>
-      <File FileName="GitCloneTest/Program.cs" Line="9" Column="47" />
+      <File FileName="GitCloneTest/Program.cs" Line="9" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,8 +19,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.GitCloneTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.GitCloneTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
