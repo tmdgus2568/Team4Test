@@ -1,6 +1,0 @@
-/Users/hsh/Desktop/cs/homework/teamgit/GitCloneTest/GitCloneTest/bin/Debug/GitCloneTest.exe
-/Users/hsh/Desktop/cs/homework/teamgit/GitCloneTest/GitCloneTest/bin/Debug/GitCloneTest.pdb
-/Users/hsh/Desktop/cs/homework/teamgit/GitCloneTest/GitCloneTest/obj/Debug/GitCloneTest.csproj.AssemblyReference.cache
-/Users/hsh/Desktop/cs/homework/teamgit/GitCloneTest/GitCloneTest/obj/Debug/GitCloneTest.csproj.CoreCompileInputs.cache
-/Users/hsh/Desktop/cs/homework/teamgit/GitCloneTest/GitCloneTest/obj/Debug/GitCloneTest.exe
-/Users/hsh/Desktop/cs/homework/teamgit/GitCloneTest/GitCloneTest/obj/Debug/GitCloneTest.pdb
