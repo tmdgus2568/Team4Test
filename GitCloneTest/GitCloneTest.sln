@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitCloneTest", "GitCloneTest\GitCloneTest.csproj", "{123B7A04-643B-421C-8EB7-EB408FE988AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{123B7A04-643B-421C-8EB7-EB408FE988AA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{123B7A04-643B-421C-8EB7-EB408FE988AA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{123B7A04-643B-421C-8EB7-EB408FE988AA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{123B7A04-643B-421C-8EB7-EB408FE988AA}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1838B663-7401-4FE9-9BF1-88E0488A84A6}
+	EndGlobalSection
+EndGlobal
