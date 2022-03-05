@@ -5,3 +5,11 @@
 /Users/hsh/Desktop/cs/homework/teamgit/windows_test/obj/Debug/windows_test.csproj.CoreCompileInputs.cache
 /Users/hsh/Desktop/cs/homework/teamgit/windows_test/obj/Debug/windows_test.exe
 /Users/hsh/Desktop/cs/homework/teamgit/windows_test/obj/Debug/windows_test.pdb
+C:\Users\iku\Desktop\Ecount_edu\Team4Test\windows_test\bin\Debug\windows_test.exe.config
+C:\Users\iku\Desktop\Ecount_edu\Team4Test\windows_test\bin\Debug\windows_test.exe
+C:\Users\iku\Desktop\Ecount_edu\Team4Test\windows_test\bin\Debug\windows_test.pdb
+C:\Users\iku\Desktop\Ecount_edu\Team4Test\windows_test\obj\Debug\windows_test.csproj.AssemblyReference.cache
+C:\Users\iku\Desktop\Ecount_edu\Team4Test\windows_test\obj\Debug\windows_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\iku\Desktop\Ecount_edu\Team4Test\windows_test\obj\Debug\windows_test.csproj.CoreCompileInputs.cache
+C:\Users\iku\Desktop\Ecount_edu\Team4Test\windows_test\obj\Debug\windows_test.exe
+C:\Users\iku\Desktop\Ecount_edu\Team4Test\windows_test\obj\Debug\windows_test.pdb

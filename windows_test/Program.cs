@@ -11,6 +11,7 @@ namespace windows_test
         static void Main(string[] args)
         {
             Console.Write("hello");
+            Console.WriteLine("Test from 이대익");
         }
     }
 }
