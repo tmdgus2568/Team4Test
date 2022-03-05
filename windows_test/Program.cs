@@ -12,7 +12,12 @@ namespace windows_test
         {
             Console.Write("hello");
             Console.WriteLine("Test from 이대익");
+
             Console.WriteLine("Test from 안현욱");
+
+            Console.WriteLine("Test from 최혁준");
+
+
         }
     }
 }
