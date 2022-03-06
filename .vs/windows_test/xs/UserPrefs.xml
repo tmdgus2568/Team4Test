@@ -1,15 +1,13 @@
 ﻿<Properties StartupConfiguration="{1AEA2F41-6B7B-4562-9757-1C182F6CE609}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="windows_test/Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="13" Column="42" />
-      <File FileName="App.config" />
+      <File FileName="windows_test/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="windows_test" expanded="True">
             <Node name="windows_test" expanded="True">
-              <Node name="Properties" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

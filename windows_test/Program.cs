@@ -10,7 +10,8 @@ namespace windows_test
     {
         static void Main(string[] args)
         {
-            Console.Write("hello");
+            Console.WriteLine("Test from 홍승현");
+
             Console.WriteLine("Test from 이대익");
 
             Console.WriteLine("Test from 안현욱");
