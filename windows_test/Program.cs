@@ -16,7 +16,7 @@ namespace windows_test
 
             Console.WriteLine("Test from 안현욱 2022-03-26 12:08");
 
-            Console.WriteLine("Test from 최혁준 2022-03-27 @@@@");
+            Console.WriteLine("Test from 최혁준 2022-03-27 1");
 
 
         }
